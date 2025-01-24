@@ -1,0 +1,463 @@
+[
+    {
+        "id": "abrigo-E1",
+        "titulo": "Abrigo E1",
+        "imagen": "./imgs/abrigos/01.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "pantalon-E2",
+        "titulo": "Pantalón E2",
+        "imagen": "./imgs/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "abrigo-E2",
+        "titulo": "Abrigo E2",
+        "imagen": "./imgs/abrigos/02.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "camiseta-E3",
+        "titulo": "Camiseta E3",
+        "imagen": "./imgs/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "calzado-E6",
+        "titulo": "Calzado E6",
+        "imagen": "./imgs/calzados/06.jpg",
+        "categoria": {
+            "nombre": "Calzados",
+            "id": "calzados"
+        },
+        "precio": 1250
+    },
+    
+    {
+        "id": "pantalon-E7",
+        "titulo": "Pantalón E7",
+        "imagen": "./imgs/pantalones/07.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "camiseta-E4",
+        "titulo": "Camiseta E4",
+        "imagen": "./imgs/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "camiseta-E7",
+        "titulo": "Camiseta E7",
+        "imagen": "./imgs/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "camiseta-E6",
+        "titulo": "Camiseta E6",
+        "imagen": "./imgs/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "pantalon-E8",
+        "titulo": "Pantalón E8",
+        "imagen": "./imgs/pantalones/08.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "chamarras-E06",
+        "titulo": "Chamarra E06",
+        "imagen": "./imgs/chamarras/06.jpg",
+        "categoria": {
+            "nombre": "Chamarras",
+            "id": "chamarras"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "pantalon-E6",
+        "titulo": "Pantalón E6",
+        "imagen": "./imgs/pantalones/06.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "chamarras-E07",
+        "titulo": "Chamarra E07",
+        "imagen": "./imgs/chamarras/07.jpg",
+        "categoria": {
+            "nombre": "Chamarras",
+            "id": "chamarras"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "pantalon-E3",
+        "titulo": "Pantalón E3",
+        "imagen": "./imgs/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "pantalon-E10",
+        "titulo": "Pantalón E10",
+        "imagen": "./imgs/pantalones/10.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "camiseta-E10",
+        "titulo": "Camiseta E10",
+        "imagen": "./imgs/camisetas/10.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "pantalon-E5",
+        "titulo": "Pantalón E5",
+        "imagen": "./imgs/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "camiseta-E9",
+        "titulo": "Camiseta E9",
+        "imagen": "./imgs/camisetas/09.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "chamarras-E01",
+        "titulo": "Chamarra E01",
+        "imagen": "./imgs/chamarras/01.jpg",
+        "categoria": {
+            "nombre": "Chamarras",
+            "id": "chamarras"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "camiseta-E1",
+        "titulo": "Camiseta E1",
+        "imagen": "./imgs/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "pantalon-E4",
+        "titulo": "Pantalón E4",
+        "imagen": "./imgs/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "abrigo-E6",
+        "titulo": "Abrigo E6",
+        "imagen": "./imgs/abrigos/06.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "pantalon-E9",
+        "titulo": "Pantalón E9",
+        "imagen": "./imgs/pantalones/09.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "camiseta-E8",
+        "titulo": "Camiseta E8",
+        "imagen": "./imgs/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "abrigo-E3",
+        "titulo": "Abrigo E3",
+        "imagen": "./imgs/abrigos/03.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "pantalon-E1",
+        "titulo": "Pantalón E1",
+        "imagen": "./imgs/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "calzado-E1",
+        "titulo": "Calzado E1",
+        "imagen": "./imgs/calzados/01.jpg",
+        "categoria": {
+            "nombre": "Calzados",
+            "id": "calzados"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "abrigo-E5",
+        "titulo": "Abrigo E5",
+        "imagen": "./imgs/abrigos/05.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "camiseta-E5",
+        "titulo": "Camiseta E5",
+        "imagen": "./imgs/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "calzado-E9",
+        "titulo": "Calzado E9",
+        "imagen": "./imgs/calzados/09.jpg",
+        "categoria": {
+            "nombre": "Calzados",
+            "id": "calzados"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "camiseta-E2",
+        "titulo": "Camiseta E2",
+        "imagen": "./imgs/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "chamarras-E08",
+        "titulo": "Chamarra E08",
+        "imagen": "./imgs/chamarras/08.jpg",
+        "categoria": {
+            "nombre": "Chamarras",
+            "id": "chamarras"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "calzado-E4",
+        "titulo": "Calzado E4",
+        "imagen": "./imgs/calzados/04.jpg",
+        "categoria": {
+            "nombre": "Calzados",
+            "id": "calzados"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "chamarras-E02",
+        "titulo": "Chamarra E02",
+        "imagen": "./imgs/chamarras/02.jpg",
+        "categoria": {
+            "nombre": "Chamarras",
+            "id": "chamarras"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "chamarras-E09",
+        "titulo": "Chamarra E09",
+        "imagen": "./imgs/chamarras/09.jpg",
+        "categoria": {
+            "nombre": "Chamarras",
+            "id": "chamarras"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "calzado-E3",
+        "titulo": "Calzado E3",
+        "imagen": "./imgs/calzados/03.jpg",
+        "categoria": {
+            "nombre": "Calzados",
+            "id": "calzados"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "chamarras-E03",
+        "titulo": "Chamarra E03",
+        "imagen": "./imgs/chamarras/03.jpg",
+        "categoria": {
+            "nombre": "Chamarras",
+            "id": "chamarras"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "calzado-E7",
+        "titulo": "Calzado E7",
+        "imagen": "./imgs/calzados/07.jpg",
+        "categoria": {
+            "nombre": "Calzados",
+            "id": "calzados"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "abrigo-E4",
+        "titulo": "Abrigo E4",
+        "imagen": "./imgs/abrigos/04.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "chamarras-E10",
+        "titulo": "Chamarra E10",
+        "imagen": "./imgs/chamarras/10.jpg",
+        "categoria": {
+            "nombre": "Chamarras",
+            "id": "chamarras"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "calzado-E2",
+        "titulo": "Calzado E2",
+        "imagen": "./imgs/calzados/02.jpg",
+        "categoria": {
+            "nombre": "Calzados",
+            "id": "calzados"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "chamarras-E04",
+        "titulo": "Chamarra E04",
+        "imagen": "./imgs/chamarras/04.jpg",
+        "categoria": {
+            "nombre": "Chamarras",
+            "id": "chamarras"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "chamarras-E05",
+        "titulo": "Chamarra E05",
+        "imagen": "./imgs/chamarras/05.jpg",
+        "categoria": {
+            "nombre": "Chamarras",
+            "id": "chamarras"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "calzado-E5",
+        "titulo": "Calzado E5",
+        "imagen": "./imgs/calzados/05.jpg",
+        "categoria": {
+            "nombre": "Calzados",
+            "id": "calzados"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "calzado-E8",
+        "titulo": "Calzado E8",
+        "imagen": "./imgs/calzados/08.jpg",
+        "categoria": {
+            "nombre": "Calzados",
+            "id": "calzados"
+        },
+        "precio": 1250
+    },
+    {
+        "id": "calzado-E10",
+        "titulo": "Calzado E10",
+        "imagen": "./imgs/calzados/10.jpg",
+        "categoria": {
+            "nombre": "Calzados",
+            "id": "calzados"
+        },
+        "precio": 1250
+    }
+]
