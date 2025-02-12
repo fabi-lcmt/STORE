@@ -7,7 +7,8 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "pantalon-E2",
@@ -17,7 +18,8 @@
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "abrigo-E2",
@@ -27,7 +29,8 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "camiseta-E3",
@@ -37,7 +40,8 @@
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "calzado-E6",
@@ -47,7 +51,8 @@
             "nombre": "Calzados",
             "id": "calzados"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     
     {
@@ -58,7 +63,8 @@
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "camiseta-E4",
@@ -68,7 +74,8 @@
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "camiseta-E7",
@@ -78,7 +85,8 @@
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "camiseta-E6",
@@ -88,7 +96,8 @@
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "pantalon-E8",
@@ -98,7 +107,8 @@
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "chamarras-E06",
@@ -108,7 +118,8 @@
             "nombre": "Chamarras",
             "id": "chamarras"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "pantalon-E6",
@@ -118,7 +129,8 @@
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "chamarras-E07",
@@ -128,7 +140,8 @@
             "nombre": "Chamarras",
             "id": "chamarras"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "pantalon-E3",
@@ -138,7 +151,8 @@
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "pantalon-E10",
@@ -148,7 +162,8 @@
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "camiseta-E10",
@@ -158,7 +173,8 @@
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "pantalon-E5",
@@ -168,7 +184,8 @@
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "camiseta-E9",
@@ -178,7 +195,8 @@
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "chamarras-E01",
@@ -188,7 +206,8 @@
             "nombre": "Chamarras",
             "id": "chamarras"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "camiseta-E1",
@@ -198,7 +217,8 @@
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "pantalon-E4",
@@ -208,7 +228,8 @@
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "abrigo-E6",
@@ -218,7 +239,8 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "pantalon-E9",
@@ -228,7 +250,8 @@
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "camiseta-E8",
@@ -238,7 +261,8 @@
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "abrigo-E3",
@@ -248,7 +272,8 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "pantalon-E1",
@@ -258,7 +283,8 @@
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "calzado-E1",
@@ -268,7 +294,8 @@
             "nombre": "Calzados",
             "id": "calzados"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "abrigo-E5",
@@ -278,7 +305,8 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "camiseta-E5",
@@ -288,7 +316,8 @@
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "calzado-E9",
@@ -298,7 +327,8 @@
             "nombre": "Calzados",
             "id": "calzados"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "camiseta-E2",
@@ -308,7 +338,8 @@
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "chamarras-E08",
@@ -318,7 +349,8 @@
             "nombre": "Chamarras",
             "id": "chamarras"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "calzado-E4",
@@ -328,7 +360,8 @@
             "nombre": "Calzados",
             "id": "calzados"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "chamarras-E02",
@@ -338,7 +371,8 @@
             "nombre": "Chamarras",
             "id": "chamarras"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "chamarras-E09",
@@ -348,7 +382,8 @@
             "nombre": "Chamarras",
             "id": "chamarras"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "calzado-E3",
@@ -358,7 +393,8 @@
             "nombre": "Calzados",
             "id": "calzados"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "chamarras-E03",
@@ -368,7 +404,8 @@
             "nombre": "Chamarras",
             "id": "chamarras"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "calzado-E7",
@@ -378,7 +415,8 @@
             "nombre": "Calzados",
             "id": "calzados"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "abrigo-E4",
@@ -388,7 +426,8 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "chamarras-E10",
@@ -398,7 +437,8 @@
             "nombre": "Chamarras",
             "id": "chamarras"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "calzado-E2",
@@ -408,7 +448,8 @@
             "nombre": "Calzados",
             "id": "calzados"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "chamarras-E04",
@@ -418,7 +459,8 @@
             "nombre": "Chamarras",
             "id": "chamarras"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "chamarras-E05",
@@ -428,7 +470,8 @@
             "nombre": "Chamarras",
             "id": "chamarras"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "calzado-E5",
@@ -438,7 +481,8 @@
             "nombre": "Calzados",
             "id": "calzados"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "calzado-E8",
@@ -448,7 +492,8 @@
             "nombre": "Calzados",
             "id": "calzados"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     },
     {
         "id": "calzado-E10",
@@ -458,6 +503,7 @@
             "nombre": "Calzados",
             "id": "calzados"
         },
-        "precio": 1250
+        "precio": 1250,
+        "stock": 5
     }
 ]
